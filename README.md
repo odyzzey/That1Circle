@@ -8,5 +8,3 @@ Well, that bar up top is shrinking…
 How far will you go? 
 How long will you last?
 Oh, That1Circle...
-
-![alt text](https://github.com/odyzzey/That1Circle/blob/master/slide1.png?raw=true )

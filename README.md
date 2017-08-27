@@ -1,2 +1,2 @@
 # That1Circle
-Temporary page for That1Circle App 
+That One Circle is a game on iOS devices

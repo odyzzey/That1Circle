@@ -10,7 +10,7 @@ How long will you last?
 Oh, That1Circle...
 
 ![alt text](https://github.com/odyzzey/That1Circle/blob/master/IMG_DE5E25C20CFD-1.jpeg?raw=true )
-<img src="https://github.com/odyzzey/That1Circle/blob/master/IMG_DE5E25C20CFD-1.jpeg?raw=true" alt="alt text" width="300"> </img>
+<img src="https://github.com/odyzzey/That1Circle/blob/master/IMG_DE5E25C20CFD-1.jpeg?raw=true" alt="alt text" width="100">
 
 ![alt text](https://github.com/odyzzey/That1Circle/blob/master/IMG_BF9072C03963-1.jpeg?raw=true)
 ![alt text](https://github.com/odyzzey/That1Circle/blob/master/IMG_0576.PNG?raw=true)
